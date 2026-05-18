@@ -1,0 +1,7 @@
+Issue,Count,Percentage,Decision,Reason
+Mixed date formats,0,0,Repair,Needed for correct date analysis
+Invalid NDVI values,104,3,Remove,NDVI should be between -1 and 1
+Duplicate parcel-date records,8,0.2,Remove,One parcel should have one reading per day
+Bad sensor status,340,9.9,Flag,Bad sensor data not used in analysis
+Orphan parcel IDs,2,0.1,Remove,No matching metadata found
+Invalid area values,0,0,Remove,Area should be greater than 0
