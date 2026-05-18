@@ -16,14 +16,14 @@ The goal was to keep the pipeline clear, easy to follow, and close to how a real
 
 
 # This Repo Files Included
-      3 Notebooks 
-- 01_bronze_ingestion.py → load raw source files
-- 02_silver_transformation.py → data cleaning and joining
-- 03_gold_analysis.py → analysis logic
+ 3 Notebooks
+- 01 Bronze.ipynb → load raw source files
+- 02 Silver.ipynb → data cleaning and joining
+- 03 Gold.ipynb → analysis logic
 
     2 Output Files
-- cleaned_parcel_timeseries.csv → final cleaned dataset
-- analysis_output.csv → final analysis result
+- cleaned_parcel_timeseries_csv.csv → final cleaned dataset
+- Final_crop_ndvi_analysis_csv.csv → final analysis result
 - -------------------------------------------------------------------------------------------------------------------
 
 
