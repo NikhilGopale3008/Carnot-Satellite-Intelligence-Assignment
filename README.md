@@ -75,7 +75,7 @@ Output columns is
 |wheat|0.176|0.31|2|
 
 
-# Quick Observation**
+# Quick Observation
 
 For all crop types, ndvi is higher after sowing than before sowing. This is expected because crops start growing after planting.
 Sugarcane has the most data (19%), so this result looks more reliable.
