@@ -11,9 +11,11 @@ Bronze Layer
 Silver Layer
 (cleaning + validation + join)
 
-   ↓
-Gold Layer
+   |
+ Gold Layer
 (final analysis)
+
+
 -------------------------------------------------------------------------------------------------------------------
 
 # Project Overview
