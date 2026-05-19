@@ -1,6 +1,20 @@
 # Carnot-Satellite-Intelligence-Assignment
 Below is my step-by-step process for this assignment.
 ---------------------------------------------------------------------------------------------------------------------
+#Architecture
+CSV Files (Source Data)
+   ↓
+Bronze Layer
+(raw data)
+
+   ↓
+Silver Layer
+(cleaning + validation + join)
+
+   ↓
+Gold Layer
+(final analysis)
+-------------------------------------------------------------------------------------------------------------------
 
 # Project Overview
 This solution was implemented in Databricks using PySpark following a medallion architecture approach
@@ -114,7 +128,7 @@ Basic and important things nneed to Monitor
 
 #Loom Walkthrough
 
-Loom link -  
+Loom link -  https://www.loom.com/share/d8bfda85b3444196a5e0a7ab8705d8a6
 
 
 
