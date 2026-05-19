@@ -24,6 +24,7 @@ Silver Layer
 # Project Overview
 This solution was implemented in Databricks using PySpark following a medallion architecture approach
 I used a simple layered approach:
+- Source : Load Raw / Input CSV Files
 - Bronze: load raw CSV files
 - Silver: clean and prepare the data
 - Gold: create the final analysis output
