@@ -2,16 +2,17 @@
 Below is my step-by-step process for this assignment.
 ---------------------------------------------------------------------------------------------------------------------
 # Architecture
+
 CSV Files (Source Data)
-   |
+       |
 Bronze Layer
 (raw data)
-
-   |
+   
+       |
 Silver Layer
 (cleaning + validation + join)
 
-   |
+        |
  Gold Layer
 (final analysis)
 
