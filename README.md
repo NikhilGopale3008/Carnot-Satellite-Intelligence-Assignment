@@ -128,7 +128,7 @@ Basic and important things nneed to Monitor
 
 #Loom Walkthrough
 
-Loom link -  https://www.loom.com/share/d8bfda85b3444196a5e0a7ab8705d8a6
+Loom link -  https://www.loom.com/share/4627b90211d84020a4951919d503c858
 
 
 
