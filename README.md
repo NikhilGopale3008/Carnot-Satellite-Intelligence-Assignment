@@ -1,13 +1,13 @@
 # Carnot-Satellite-Intelligence-Assignment
 Below is my step-by-step process for this assignment.
 ---------------------------------------------------------------------------------------------------------------------
-#Architecture
+# Architecture
 CSV Files (Source Data)
-   ↓
+   |
 Bronze Layer
 (raw data)
 
-   ↓
+   |
 Silver Layer
 (cleaning + validation + join)
 
